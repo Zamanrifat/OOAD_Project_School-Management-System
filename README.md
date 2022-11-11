@@ -1,1 +1,1 @@
-# School-Management-System-OOAD-master
+# School-Management-System-OOAD
